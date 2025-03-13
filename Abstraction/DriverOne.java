@@ -62,7 +62,7 @@ public class DriverOne {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		FullTimeEmployee fte = new FullTimeEmployee("Peter", 50);
+		FullTimeEmployee fte = new FullTimeEmployee("Peter", 80);
 		Contractor cont = new Contractor("James", 25, 9);
 		System.out.println(fte.getName());
 		System.out.println(fte.getPaymentPerHour());

@@ -3,13 +3,9 @@ package com.Final;
 final class Parent{
 	
 }
-class Child extends Parent{
+/*class Child extends Parent{
 	
-}
-
-
-
-
+}*/
 
  final public class FinalClass {
 
