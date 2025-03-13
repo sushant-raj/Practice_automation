@@ -8,5 +8,6 @@ public class FibonacciSeries {
 
         }
         System.out.println(num);
+        System.out.println("new");
     }
 }
